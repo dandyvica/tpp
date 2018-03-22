@@ -1,0 +1,13 @@
+name: cproxy
+version: 0.1.0
+
+authors:
+  - dandyvica <dandyvica@gmail.com>
+
+targets:
+  cproxy:
+    main: src/cproxy.cr
+
+crystal: 0.23.1
+
+license: MIT
